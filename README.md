@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">About Me<br>👩‍💻 I’m passionate about building impactful software. Over the years, I’ve contributed to a variety of projects, from web and desktop applications to large-scale data analysis.<br>🚀 Currently, I’m diving deeper into machine learning and exploring how it can power smarter, more scalable solutions.<br>🎯 My goal is to master advanced AI and ML techniques, with a dream of developing innovative video generation tools powered by artificial intelligence.<br>☕ Fun fact: My best ideas seem to arrive somewhere between my second and third cup of coffee!<br>Feel free to tweak it to match your personality or add more specific details!</p>
+<p align="left">About Me<br>👩‍💻 I’m passionate about building impactful software. Over the years, I’ve contributed to a variety of projects, from web and desktop applications to large-scale data analysis.<br>🚀 Currently, I’m diving deeper into machine learning and exploring how it can power smarter, more scalable solutions.<br>🎯 My goal is to master advanced AI and ML techniques, with a dream of developing innovative video generation tools powered by artificial intelligence.<br>☕ Fun fact: My best ideas seem to arrive somewhere between my second and third cup of coffee!<br></p>
 
 ###
 
